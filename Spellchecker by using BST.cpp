@@ -1,3 +1,4 @@
+// spell checker and spell corrector for DSA
 #include<iostream>
 #include<fstream>
 #include<string.h>
