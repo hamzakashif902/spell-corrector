@@ -137,7 +137,6 @@ int main(){
 	int found = 0;
 	string arr[size];
 	system("color 88");
-
 	BST B;
 	string word1;
 	ifstream mfile("spellDic.txt");
